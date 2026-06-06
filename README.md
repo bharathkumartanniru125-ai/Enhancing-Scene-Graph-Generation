@@ -124,7 +124,6 @@ Scene-Graph-Generation/
 ├── Code.pdf
 ├── Finalprojectreport.docx
 ├── Enhancing Scene Graph Generation with Stacked Motif Networks.pptx
-├── images/
 └── outputs/
 ```
 
